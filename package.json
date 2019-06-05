@@ -2,7 +2,7 @@
   "name": "experity-vscode-extension-pack",
   "displayName": "Experity VSCode Extension Pack",
   "description": "Functional and cosmetic VSCode extensions for Experity developers",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "chris-bell",
   "icon": "experity.png",
   "galleryBanner": {
